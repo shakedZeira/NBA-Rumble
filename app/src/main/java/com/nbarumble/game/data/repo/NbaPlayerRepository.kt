@@ -35,6 +35,15 @@ class NbaPlayerRepository(context: Context) {
     suspend fun players(difficulty: Difficulty): List<NbaPlayer> =
         players().filter { it.tier <= difficulty.maxTier }
 
+    /**
+     * Roster filtered by [difficulty] and, when [league] is given, to a single
+     * league (NbaPlayer.LEAGUE_NBA / LEAGUE_EUROLEAGUE).
+     */
+    suspend fun players(difficulty: Difficulty, league: String? = null): List<NbaPlayer> =
+        players().filter {
+            it.tier <= difficulty.maxTier && (league == null || it.league == league)
+        }
+
     suspend fun randomPlayer(pool: List<NbaPlayer>, excluding: String? = null): NbaPlayer =
         randomFrom(pool, excluding)
 
@@ -59,12 +68,15 @@ class NbaPlayerRepository(context: Context) {
                 for (i in 0 until array.length()) {
                     val item = array.getJSONObject(i)
                     val id = item.getString("id")
+                    val name = item.getString("name")
                     add(
                         NbaPlayer(
                             id = id,
-                            name = item.getString("name"),
+                            name = name,
                             headshotUrl = "$HEADSHOT_PREFIX$id.png",
-                            tier = item.optInt("tier", 3)
+                            tier = item.optInt("tier", 3),
+                            league = item.optString("league", NbaPlayer.LEAGUE_NBA),
+                            photoUrl = item.optString("photo", "").takeIf { it.isNotEmpty() }
                         )
                     )
                 }

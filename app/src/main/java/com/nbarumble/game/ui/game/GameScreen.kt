@@ -161,7 +161,7 @@ fun GameRoute(
             )
 
             Box {
-                PlayerImage(state.currentPlayer?.headshotUrl)
+                PlayerImage(state.currentPlayer?.displayUrl)
 
                 if (state.currentPlayer != null && state.playing) {
                     GuessLine(

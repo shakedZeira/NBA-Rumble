@@ -39,4 +39,25 @@ class NbaPlayerRepositoryTest {
         val players = NbaPlayerRepository.parse(raw)
         assertEquals("Jackson", players.first().lastName)
     }
+
+    @Test
+    fun `parses league and photo override`() {
+        val raw = """
+            {"players":[
+              {"id":"201586","name":"Serge Ibaka","tier":2,"league":"NBA"},
+              {"id":"0","name":"Sergio Llull","tier":3,"league":"EuroLeague","photo":"https://example.com/llull.png"}
+            ]}
+        """.trimIndent()
+        val players = NbaPlayerRepository.parse(raw)
+
+        val ibaka = players[0]
+        assertEquals("NBA", ibaka.league)
+        assertEquals(ibaka.headshotUrl, ibaka.displayUrl)
+
+        val llull = players[1]
+        assertEquals("EuroLeague", llull.league)
+        assertEquals("https://example.com/llull.png", llull.photoUrl)
+        assertEquals("https://example.com/llull.png", llull.displayUrl)
+        assertEquals(true, llull.isEuroLeague)
+    }
 }
