@@ -1,0 +1,659 @@
+﻿{
+    "players":  [
+                    {
+                        "id":  "893",
+                        "name":  "Michael Jordan",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "977",
+                        "name":  "Kobe Bryant",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "406",
+                        "name":  "Shaquille O\u0027Neal",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1495",
+                        "name":  "Tim Duncan",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1717",
+                        "name":  "Dirk Nowitzki",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "947",
+                        "name":  "Allen Iverson",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "708",
+                        "name":  "Kevin Garnett",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1713",
+                        "name":  "Vince Carter",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1718",
+                        "name":  "Paul Pierce",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "951",
+                        "name":  "Ray Allen",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1938",
+                        "name":  "Manu Ginobili",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "2225",
+                        "name":  "Tony Parker",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "2397",
+                        "name":  "Yao Ming",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "2730",
+                        "name":  "Dwight Howard",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "2200",
+                        "name":  "Pau Gasol",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "2544",
+                        "name":  "LeBron James",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "201939",
+                        "name":  "Stephen Curry",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "201142",
+                        "name":  "Kevin Durant",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "203507",
+                        "name":  "Giannis Antetokounmpo",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "202695",
+                        "name":  "Kawhi Leonard",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "201935",
+                        "name":  "James Harden",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "201566",
+                        "name":  "Russell Westbrook",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "101108",
+                        "name":  "Chris Paul",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "203076",
+                        "name":  "Anthony Davis",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "203081",
+                        "name":  "Damian Lillard",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "203954",
+                        "name":  "Joel Embiid",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "203999",
+                        "name":  "Nikola Jokic",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1629029",
+                        "name":  "Luka Doncic",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1628369",
+                        "name":  "Jayson Tatum",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1626164",
+                        "name":  "Devin Booker",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1629027",
+                        "name":  "Trae Young",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1628378",
+                        "name":  "Donovan Mitchell",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "202710",
+                        "name":  "Jimmy Butler",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "202681",
+                        "name":  "Kyrie Irving",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "202331",
+                        "name":  "Paul George",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "202689",
+                        "name":  "Kemba Walker",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "202691",
+                        "name":  "Klay Thompson",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "203110",
+                        "name":  "Draymond Green",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1626157",
+                        "name":  "Karl-Anthony Towns",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1629627",
+                        "name":  "Zion Williamson",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1629630",
+                        "name":  "Ja Morant",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1628389",
+                        "name":  "Bam Adebayo",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1628983",
+                        "name":  "Shai Gilgeous-Alexander",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1628973",
+                        "name":  "Jalen Brunson",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1630595",
+                        "name":  "Cade Cunningham",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1630162",
+                        "name":  "Anthony Edwards",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1630163",
+                        "name":  "LaMelo Ball",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1630169",
+                        "name":  "Tyrese Haliburton",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1641705",
+                        "name":  "Victor Wembanyama",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "202696",
+                        "name":  "Nikola Vucevic",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "203497",
+                        "name":  "Rudy Gobert",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1628368",
+                        "name":  "De\u0027Aaron Fox",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "201950",
+                        "name":  "Jrue Holiday",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "203114",
+                        "name":  "Khris Middleton",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "203078",
+                        "name":  "Bradley Beal",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "202322",
+                        "name":  "John Wall",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "201565",
+                        "name":  "Derrick Rose",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "2546",
+                        "name":  "Carmelo Anthony",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "2548",
+                        "name":  "Dwyane Wade",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1627759",
+                        "name":  "Jaylen Brown",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1627783",
+                        "name":  "Pascal Siakam",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1628991",
+                        "name":  "Jaren Jackson Jr.",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1630224",
+                        "name":  "Jalen Green",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1627732",
+                        "name":  "Ben Simmons",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1629028",
+                        "name":  "Deandre Ayton",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1629639",
+                        "name":  "Tyler Herro",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1630178",
+                        "name":  "Tyrese Maxey",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1630596",
+                        "name":  "Evan Mobley",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1630567",
+                        "name":  "Scottie Barnes",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1630532",
+                        "name":  "Franz Wagner",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1631094",
+                        "name":  "Paolo Banchero",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1631095",
+                        "name":  "Jabari Smith Jr.",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1631096",
+                        "name":  "Chet Holmgren",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "201144",
+                        "name":  "Mike Conley",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "201933",
+                        "name":  "Blake Griffin",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "201942",
+                        "name":  "DeMar DeRozan",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "201572",
+                        "name":  "Brook Lopez",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "203084",
+                        "name":  "Harrison Barnes",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "203490",
+                        "name":  "Otto Porter Jr.",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "203924",
+                        "name":  "Jerami Grant",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "203944",
+                        "name":  "Julius Randle",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "202340",
+                        "name":  "Avery Bradley",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "201980",
+                        "name":  "Danny Green",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1627742",
+                        "name":  "Brandon Ingram",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1627734",
+                        "name":  "Domantas Sabonis",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1627832",
+                        "name":  "Fred VanVleet",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1628366",
+                        "name":  "Lonzo Ball",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1628381",
+                        "name":  "John Collins",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1628398",
+                        "name":  "Kyle Kuzma",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "202683",
+                        "name":  "Enes Freedom",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1628418",
+                        "name":  "Thomas Bryant",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1629011",
+                        "name":  "Mitchell Robinson",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1628997",
+                        "name":  "Caleb Martin",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1626162",
+                        "name":  "Kelly Oubre Jr.",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1630170",
+                        "name":  "Devin Vassell",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1630198",
+                        "name":  "Isaiah Joe",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1630208",
+                        "name":  "Nick Richards",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1630214",
+                        "name":  "Xavier Tillman",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1630228",
+                        "name":  "Jonathan Kuminga",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1629645",
+                        "name":  "Kevin Porter Jr.",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1630202",
+                        "name":  "Payton Pritchard",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1629642",
+                        "name":  "Nassir Little",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1630167",
+                        "name":  "Obi Toppin",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1629013",
+                        "name":  "Landry Shamet",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1630166",
+                        "name":  "Deni Avdija",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1642879",
+                        "name":  "Ben Saraf",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1642874",
+                        "name":  "Danny Wolf",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1630578",
+                        "name":  "Alperen Sengun",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1630581",
+                        "name":  "Josh Giddey",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1630591",
+                        "name":  "Jalen Suggs",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1631114",
+                        "name":  "Jalen Williams",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1630183",
+                        "name":  "Jaden McDaniels",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1630217",
+                        "name":  "Desmond Bane",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1628374",
+                        "name":  "Lauri Markkanen",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1629012",
+                        "name":  "Collin Sexton",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1629628",
+                        "name":  "RJ Barrett",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1629008",
+                        "name":  "Michael Porter Jr.",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1627749",
+                        "name":  "Dejounte Murray",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1629636",
+                        "name":  "Darius Garland",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "201586",
+                        "name":  "Serge Ibaka",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1626156",
+                        "name":  "D\u0027Angelo Russell",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "204001",
+                        "name":  "Kristaps Porzingis",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "203897",
+                        "name":  "Zach LaVine",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "203952",
+                        "name":  "Andrew Wiggins",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1629632",
+                        "name":  "Coby White",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1629014",
+                        "name":  "Anfernee Simons",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1631093",
+                        "name":  "Jaden Ivey",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1628970",
+                        "name":  "Miles Bridges",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1630560",
+                        "name":  "Cam Thomas",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1630703",
+                        "name":  "Scoot Henderson",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1641706",
+                        "name":  "Brandon Miller",
+                        "tier":  2
+                    }
+                ]
+}

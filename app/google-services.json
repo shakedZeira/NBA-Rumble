@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1055193140740",
+    "firebase_url": "https://projectbt14-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "projectbt14",
+    "storage_bucket": "projectbt14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055193140740:android:a100dbe4cbf1c4a8d9ef51",
+        "android_client_info": {
+          "package_name": "com.example.baskettop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPm6sNHYGOVnwMy5_gLCsflX2KlamiQgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055193140740:android:4e8b41a8c1be07b1d9ef51",
+        "android_client_info": {
+          "package_name": "com.nbarumble.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPm6sNHYGOVnwMy5_gLCsflX2KlamiQgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
