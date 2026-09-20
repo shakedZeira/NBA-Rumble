@@ -17,8 +17,12 @@ import com.nbarumble.game.ui.game.GameRoute
 import com.nbarumble.game.ui.game.GameViewModel
 import com.nbarumble.game.ui.home.HomeRoute
 import com.nbarumble.game.ui.home.HomeViewModel
+import com.nbarumble.game.ui.leaderboard.LeaderboardRoute
+import com.nbarumble.game.ui.leaderboard.LeaderboardViewModel
 import com.nbarumble.game.ui.lobby.LobbyRoute
 import com.nbarumble.game.ui.lobby.LobbyViewModel
+import com.nbarumble.game.ui.single.SingleRoute
+import com.nbarumble.game.ui.single.SingleViewModel
 import com.nbarumble.game.ui.theme.NbaRumbleTheme
 import com.nbarumble.game.ui.vmFactory
 
@@ -84,6 +88,26 @@ private fun AppNav(modifier: Modifier = Modifier) {
                 code = code,
                 vm = vm,
                 onExit = { navController.navigateHome() }
+            )
+        }
+
+        composable(HomeViewModel.ROUTE_SINGLE) {
+            val vm: SingleViewModel = viewModel(
+                factory = vmFactory { SingleViewModel(app) }
+            )
+            SingleRoute(
+                vm = vm,
+                onBack = { navController.navigateHome() }
+            )
+        }
+
+        composable(HomeViewModel.ROUTE_LEADERBOARD) {
+            val vm: LeaderboardViewModel = viewModel(
+                factory = vmFactory { LeaderboardViewModel(app) }
+            )
+            LeaderboardRoute(
+                vm = vm,
+                onBack = { navController.navigateHome() }
             )
         }
     }

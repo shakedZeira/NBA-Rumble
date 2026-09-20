@@ -1,29 +1,72 @@
 ﻿{
     "players":  [
                     {
-                        "id":  "893",
-                        "name":  "Michael Jordan",
-                        "tier":  1
+                        "id":  "203932",
+                        "name":  "Aaron Gordon",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "977",
-                        "name":  "Kobe Bryant",
-                        "tier":  1
+                        "id":  "1630174",
+                        "name":  "Aaron Nesmith",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "406",
-                        "name":  "Shaquille O\u0027Neal",
-                        "tier":  1
+                        "id":  "1630598",
+                        "name":  "Aaron Wiggins",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "1495",
-                        "name":  "Tim Duncan",
-                        "tier":  1
+                        "id":  "1641766",
+                        "name":  "Adama Sanogo",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "1717",
-                        "name":  "Dirk Nowitzki",
-                        "tier":  1
+                        "id":  "1641737",
+                        "name":  "Adem Bona",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201143",
+                        "name":  "Al Horford",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "202692",
+                        "name":  "Alec Burks",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Aleksa Avramovic",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/aleksa_avramovic.png?alt=media\u0026token=5282469e-4b08-4635-b9cb-0828e1474aaf"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Alex Abrines",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/alex_abrines.png?alt=media\u0026token=d7deeb42-cca9-4ccc-af62-35c34b53729d"
+                    },
+                    {
+                        "id":  "1627936",
+                        "name":  "Alex Caruso",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "202329",
+                        "name":  "Al-Farouq Aminu",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
                         "id":  "947",
@@ -31,89 +74,81 @@
                         "tier":  1
                     },
                     {
-                        "id":  "708",
-                        "name":  "Kevin Garnett",
-                        "tier":  1
+                        "id":  "1630578",
+                        "name":  "Alperen Sengun",
+                        "tier":  2
                     },
                     {
-                        "id":  "1713",
-                        "name":  "Vince Carter",
-                        "tier":  1
+                        "id":  "1641708",
+                        "name":  "Amen Thompson",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "1718",
-                        "name":  "Paul Pierce",
-                        "tier":  1
+                        "id":  "1629599",
+                        "name":  "Amir Coffey",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "951",
-                        "name":  "Ray Allen",
-                        "tier":  1
+                        "id":  "203083",
+                        "name":  "Andre Drummond",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "1938",
-                        "name":  "Manu Ginobili",
-                        "tier":  1
+                        "id":  "2738",
+                        "name":  "Andre Iguodala",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "2225",
-                        "name":  "Tony Parker",
-                        "tier":  1
+                        "id":  "1641748",
+                        "name":  "Andre Jackson Jr.",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "2397",
-                        "name":  "Yao Ming",
-                        "tier":  1
+                        "id":  "0",
+                        "name":  "Andreas Obst",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/andreas_obst.png?alt=media\u0026token=17cbde4b-98ac-4c4b-9ee3-6718cd653ac3"
                     },
                     {
-                        "id":  "2730",
-                        "name":  "Dwight Howard",
-                        "tier":  1
+                        "id":  "0",
+                        "name":  "Andrei Kirilenko",
+                        "tier":  1,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/andrei_kirilenko.png?alt=media\u0026token=337dfb4a-3cd6-4981-b702-4930d6c34e66"
                     },
                     {
-                        "id":  "2200",
-                        "name":  "Pau Gasol",
-                        "tier":  1
+                        "id":  "101106",
+                        "name":  "Andrew Bogut",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "2544",
-                        "name":  "LeBron James",
-                        "tier":  1
+                        "id":  "1629614",
+                        "name":  "Andrew Nembhard",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "201939",
-                        "name":  "Stephen Curry",
-                        "tier":  1
+                        "id":  "203952",
+                        "name":  "Andrew Wiggins",
+                        "tier":  3
                     },
                     {
-                        "id":  "201142",
-                        "name":  "Kevin Durant",
-                        "tier":  1
+                        "id":  "1629014",
+                        "name":  "Anfernee Simons",
+                        "tier":  3
                     },
                     {
-                        "id":  "203507",
-                        "name":  "Giannis Antetokounmpo",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "202695",
-                        "name":  "Kawhi Leonard",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "201935",
-                        "name":  "James Harden",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "201566",
-                        "name":  "Russell Westbrook",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "101108",
-                        "name":  "Chris Paul",
-                        "tier":  1
+                        "id":  "1641710",
+                        "name":  "Anthony Black",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
                         "id":  "203076",
@@ -121,289 +156,34 @@
                         "tier":  1
                     },
                     {
-                        "id":  "203081",
-                        "name":  "Damian Lillard",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "203954",
-                        "name":  "Joel Embiid",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "203999",
-                        "name":  "Nikola Jokic",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1629029",
-                        "name":  "Luka Doncic",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1628369",
-                        "name":  "Jayson Tatum",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1626164",
-                        "name":  "Devin Booker",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1629027",
-                        "name":  "Trae Young",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1628378",
-                        "name":  "Donovan Mitchell",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "202710",
-                        "name":  "Jimmy Butler",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "202681",
-                        "name":  "Kyrie Irving",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "202331",
-                        "name":  "Paul George",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "202689",
-                        "name":  "Kemba Walker",
-                        "tier":  3
-                    },
-                    {
-                        "id":  "202691",
-                        "name":  "Klay Thompson",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "203110",
-                        "name":  "Draymond Green",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1626157",
-                        "name":  "Karl-Anthony Towns",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1629627",
-                        "name":  "Zion Williamson",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1629630",
-                        "name":  "Ja Morant",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1628389",
-                        "name":  "Bam Adebayo",
-                        "tier":  3
-                    },
-                    {
-                        "id":  "1628983",
-                        "name":  "Shai Gilgeous-Alexander",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1628973",
-                        "name":  "Jalen Brunson",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1630595",
-                        "name":  "Cade Cunningham",
-                        "tier":  2
-                    },
-                    {
                         "id":  "1630162",
                         "name":  "Anthony Edwards",
                         "tier":  1
                     },
                     {
-                        "id":  "1630163",
-                        "name":  "LaMelo Ball",
-                        "tier":  1
+                        "id":  "0",
+                        "name":  "Antonio Blakeney",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/antonio_blakeney.png?alt=media\u0026token=8d18f22d-513d-43c2-9ea6-d1a765261afc"
                     },
                     {
-                        "id":  "1630169",
-                        "name":  "Tyrese Haliburton",
-                        "tier":  1
+                        "id":  "1641709",
+                        "name":  "Ausar Thompson",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "1641705",
-                        "name":  "Victor Wembanyama",
-                        "tier":  1
+                        "id":  "1630559",
+                        "name":  "Austin Reaves",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "202696",
-                        "name":  "Nikola Vucevic",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "203497",
-                        "name":  "Rudy Gobert",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "1628368",
-                        "name":  "De\u0027Aaron Fox",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "201950",
-                        "name":  "Jrue Holiday",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "203114",
-                        "name":  "Khris Middleton",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "203078",
-                        "name":  "Bradley Beal",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "202322",
-                        "name":  "John Wall",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "201565",
-                        "name":  "Derrick Rose",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "2546",
-                        "name":  "Carmelo Anthony",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "2548",
-                        "name":  "Dwyane Wade",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1627759",
-                        "name":  "Jaylen Brown",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1627783",
-                        "name":  "Pascal Siakam",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1628991",
-                        "name":  "Jaren Jackson Jr.",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "1630224",
-                        "name":  "Jalen Green",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "1627732",
-                        "name":  "Ben Simmons",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1629028",
-                        "name":  "Deandre Ayton",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "1629639",
-                        "name":  "Tyler Herro",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "1630178",
-                        "name":  "Tyrese Maxey",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "1630596",
-                        "name":  "Evan Mobley",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "1630567",
-                        "name":  "Scottie Barnes",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "1630532",
-                        "name":  "Franz Wagner",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "1631094",
-                        "name":  "Paolo Banchero",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "1631095",
-                        "name":  "Jabari Smith Jr.",
-                        "tier":  3
-                    },
-                    {
-                        "id":  "1631096",
-                        "name":  "Chet Holmgren",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "201144",
-                        "name":  "Mike Conley",
-                        "tier":  3
-                    },
-                    {
-                        "id":  "201933",
-                        "name":  "Blake Griffin",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "201942",
-                        "name":  "DeMar DeRozan",
-                        "tier":  1
-                    },
-                    {
-                        "id":  "201572",
-                        "name":  "Brook Lopez",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "203084",
-                        "name":  "Harrison Barnes",
-                        "tier":  3
-                    },
-                    {
-                        "id":  "203490",
-                        "name":  "Otto Porter Jr.",
-                        "tier":  3
-                    },
-                    {
-                        "id":  "203924",
-                        "name":  "Jerami Grant",
-                        "tier":  3
-                    },
-                    {
-                        "id":  "203944",
-                        "name":  "Julius Randle",
-                        "tier":  2
+                        "id":  "203085",
+                        "name":  "Austin Rivers",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
                         "id":  "202340",
@@ -411,9 +191,91 @@
                         "tier":  3
                     },
                     {
-                        "id":  "201980",
-                        "name":  "Danny Green",
+                        "id":  "1630245",
+                        "name":  "Ayo Dosunmu",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628389",
+                        "name":  "Bam Adebayo",
                         "tier":  3
+                    },
+                    {
+                        "id":  "203463",
+                        "name":  "Ben McLemore",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1642879",
+                        "name":  "Ben Saraf",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1627732",
+                        "name":  "Ben Simmons",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1631097",
+                        "name":  "Bennedict Mathurin",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641731",
+                        "name":  "Bilal Coulibaly",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Bill Russell",
+                        "tier":  1,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/bill_russell.png?alt=media\u0026token=88aeb7a4-1c61-4c84-b674-4d63c71b822e"
+                    },
+                    {
+                        "id":  "201933",
+                        "name":  "Blake Griffin",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1631104",
+                        "name":  "Blake Wesley",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1626171",
+                        "name":  "Bobby Portis",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629626",
+                        "name":  "Bol Bol",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Bonzie Colson",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/bonzie_colson.png?alt=media\u0026token=45edfb82-5fa6-490e-8fe5-49eb6f1f6c3d"
+                    },
+                    {
+                        "id":  "203078",
+                        "name":  "Bradley Beal",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1641764",
+                        "name":  "Brandin Podziemski",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
                         "id":  "1627742",
@@ -421,44 +283,31 @@
                         "tier":  2
                     },
                     {
-                        "id":  "1627734",
-                        "name":  "Domantas Sabonis",
+                        "id":  "1641706",
+                        "name":  "Brandon Miller",
                         "tier":  2
                     },
                     {
-                        "id":  "1627832",
-                        "name":  "Fred VanVleet",
+                        "id":  "201572",
+                        "name":  "Brook Lopez",
                         "tier":  2
                     },
                     {
-                        "id":  "1628366",
-                        "name":  "Lonzo Ball",
+                        "id":  "1627741",
+                        "name":  "Buddy Hield",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630595",
+                        "name":  "Cade Cunningham",
                         "tier":  2
                     },
                     {
-                        "id":  "1628381",
-                        "name":  "John Collins",
-                        "tier":  3
-                    },
-                    {
-                        "id":  "1628398",
-                        "name":  "Kyle Kuzma",
-                        "tier":  2
-                    },
-                    {
-                        "id":  "202683",
-                        "name":  "Enes Freedom",
-                        "tier":  3
-                    },
-                    {
-                        "id":  "1628418",
-                        "name":  "Thomas Bryant",
-                        "tier":  3
-                    },
-                    {
-                        "id":  "1629011",
-                        "name":  "Mitchell Robinson",
-                        "tier":  3
+                        "id":  "1631216",
+                        "name":  "Caleb Houstan",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
                         "id":  "1628997",
@@ -466,68 +315,208 @@
                         "tier":  3
                     },
                     {
-                        "id":  "1626162",
-                        "name":  "Kelly Oubre Jr.",
-                        "tier":  3
+                        "id":  "1629629",
+                        "name":  "Cam Reddish",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "1630170",
-                        "name":  "Devin Vassell",
-                        "tier":  3
+                        "id":  "1642285",
+                        "name":  "Cam Spencer",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "1630198",
-                        "name":  "Isaiah Joe",
-                        "tier":  3
-                    },
-                    {
-                        "id":  "1630208",
-                        "name":  "Nick Richards",
-                        "tier":  3
-                    },
-                    {
-                        "id":  "1630214",
-                        "name":  "Xavier Tillman",
-                        "tier":  3
-                    },
-                    {
-                        "id":  "1630228",
-                        "name":  "Jonathan Kuminga",
+                        "id":  "1630560",
+                        "name":  "Cam Thomas",
                         "tier":  2
                     },
                     {
-                        "id":  "1629645",
-                        "name":  "Kevin Porter Jr.",
-                        "tier":  3
+                        "id":  "1641715",
+                        "name":  "Cam Whitmore",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "1630202",
-                        "name":  "Payton Pritchard",
-                        "tier":  3
+                        "id":  "1627747",
+                        "name":  "Caris LeVert",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "1629642",
-                        "name":  "Nassir Little",
-                        "tier":  3
+                        "id":  "201171",
+                        "name":  "Carl Landry",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "1630167",
-                        "name":  "Obi Toppin",
+                        "id":  "0",
+                        "name":  "Carlik Jones",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/carlick_jones.png?alt=media\u0026token=f420f232-76b7-4179-b2e0-eb45f484b600"
+                    },
+                    {
+                        "id":  "2546",
+                        "name":  "Carmelo Anthony",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1641717",
+                        "name":  "Cason Wallace",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "202718",
+                        "name":  "Chandler Parsons",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1627767",
+                        "name":  "Cheick Diallo",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631096",
+                        "name":  "Chet Holmgren",
                         "tier":  2
                     },
                     {
-                        "id":  "1629013",
-                        "name":  "Landry Shamet",
-                        "tier":  3
+                        "id":  "0",
+                        "name":  "Chima Moneke",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/chima_moneke.png?alt=media\u0026token=dff21465-8cc2-4cb1-bdde-d03b1b983710"
                     },
                     {
-                        "id":  "1630166",
-                        "name":  "Deni Avdija",
+                        "id":  "0",
+                        "name":  "Chris Bosh",
+                        "tier":  2,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/chris_bosh.png?alt=media\u0026token=83ad0cb0-ea0d-480e-ac3e-f0458bea1f51"
+                    },
+                    {
+                        "id":  "1628449",
+                        "name":  "Chris Boucher",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630537",
+                        "name":  "Chris Duarte",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "101108",
+                        "name":  "Chris Paul",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1631128",
+                        "name":  "Christian Braun",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203468",
+                        "name":  "CJ McCollum",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629632",
+                        "name":  "Coby White",
                         "tier":  2
                     },
                     {
-                        "id":  "1642879",
-                        "name":  "Ben Saraf",
+                        "id":  "1628998",
+                        "name":  "Cody Martin",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203469",
+                        "name":  "Cody Zeller",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641732",
+                        "name":  "Colby Jones",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630175",
+                        "name":  "Cole Anthony",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629012",
+                        "name":  "Collin Sexton",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1641854",
+                        "name":  "Craig Porter Jr.",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631207",
+                        "name":  "Dalen Terry",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1642261",
+                        "name":  "Dalton Knecht",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203081",
+                        "name":  "Damian Lillard",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1627814",
+                        "name":  "Damion Lee",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1626156",
+                        "name":  "D\u0027Angelo Russell",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1629655",
+                        "name":  "Daniel Gafford",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Daniel Oturu",
+                        "tier":  2,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/dan_oturu.png?alt=media\u0026token=5ac13afb-5311-426f-87fa-325cfafc60e4"
+                    },
+                    {
+                        "id":  "1628464",
+                        "name":  "Daniel Theis",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201980",
+                        "name":  "Danny Green",
                         "tier":  3
                     },
                     {
@@ -536,14 +525,541 @@
                         "tier":  3
                     },
                     {
-                        "id":  "1630578",
-                        "name":  "Alperen Sengun",
+                        "id":  "203957",
+                        "name":  "Dante Exum",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629636",
+                        "name":  "Darius Garland",
                         "tier":  2
                     },
                     {
-                        "id":  "1630581",
-                        "name":  "Josh Giddey",
+                        "id":  "0",
+                        "name":  "Darius Thompson",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/darius_thompson.png?alt=media\u0026token=97365e7d-1b7b-4a4c-ba0b-589b68c800bd"
+                    },
+                    {
+                        "id":  "1630561",
+                        "name":  "David Duke Jr.",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630558",
+                        "name":  "Davion Mitchell",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628368",
+                        "name":  "De\u0027Aaron Fox",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1629731",
+                        "name":  "Dean Wade",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629028",
+                        "name":  "Deandre Ayton",
                         "tier":  2
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "De\u0027Andre Hunter",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/deandre_hunter.png?alt=media\u0026token=6ee9a945-be00-48cd-9964-2841e202fa3e"
+                    },
+                    {
+                        "id":  "201599",
+                        "name":  "DeAndre Jordan",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Dejan Bodiroga",
+                        "tier":  1,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/dejan_bodiroga.png?alt=media\u0026token=7c7e8622-4208-4e40-bcd2-8ecde6dcdb9a"
+                    },
+                    {
+                        "id":  "1627749",
+                        "name":  "Dejounte Murray",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1626153",
+                        "name":  "Delon Wright",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201942",
+                        "name":  "DeMar DeRozan",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1630166",
+                        "name":  "Deni Avdija",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1628372",
+                        "name":  "Dennis Smith Jr.",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641726",
+                        "name":  "Dereck Lively II",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "202324",
+                        "name":  "Derrick Favors",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1627884",
+                        "name":  "Derrick Jones Jr.",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201565",
+                        "name":  "Derrick Rose",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Derrick White",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/derrick_white.png?alt=media\u0026token=839a5955-738a-4aad-9e5a-ff66fccfcac8"
+                    },
+                    {
+                        "id":  "1630217",
+                        "name":  "Desmond Bane",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1626164",
+                        "name":  "Devin Booker",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1630170",
+                        "name":  "Devin Vassell",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "203473",
+                        "name":  "Dewayne Dedmon",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628415",
+                        "name":  "Dillon Brooks",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1717",
+                        "name":  "Dirk Nowitzki",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1627734",
+                        "name":  "Domantas Sabonis",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1628378",
+                        "name":  "Donovan Mitchell",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1628978",
+                        "name":  "Donte DiVincenzo",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Dorian Finney-Smith",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/dorian_finney_smith.png?alt=media\u0026token=67c35793-672a-4b6a-bc66-d5bd6e132cca"
+                    },
+                    {
+                        "id":  "203110",
+                        "name":  "Draymond Green",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Drew Eubanks",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/drew_eubanks.png?alt=media\u0026token=97d26759-19c3-4186-bde9-57262d4c0f3e"
+                    },
+                    {
+                        "id":  "1629130",
+                        "name":  "Duncan Robinson",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641871",
+                        "name":  "Duop Reath",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "2730",
+                        "name":  "Dwight Howard",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "203939",
+                        "name":  "Dwight Powell",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "2548",
+                        "name":  "Dwyane Wade",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Dzanan Musa",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/dzanan_musa.png?alt=media\u0026token=03eb2c4a-66fd-4b47-80cf-153a664909a0"
+                    },
+                    {
+                        "id":  "202334",
+                        "name":  "Ed Davis",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Edy Tavares",
+                        "tier":  1,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/edi_tavares.png?alt=media\u0026token=9528a4a6-88a8-46ff-a7dc-b68c43d35783"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Elijah Bryant",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/elijah_bryant.png?alt=media\u0026token=ab7957f2-9458-48d7-adc1-9438a2138f34"
+                    },
+                    {
+                        "id":  "202683",
+                        "name":  "Enes Freedom",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "201569",
+                        "name":  "Eric Gordon",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630596",
+                        "name":  "Evan Mobley",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Facundo Campazzo",
+                        "tier":  2,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/facundo_campazzo.png?alt=media\u0026token=7feb4415-d72e-400c-b90c-13a5f552f1bc"
+                    },
+                    {
+                        "id":  "203105",
+                        "name":  "Festus Ezeli",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628373",
+                        "name":  "Frank Ntilikina",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630532",
+                        "name":  "Franz Wagner",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1627832",
+                        "name":  "Fred VanVleet",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Gabe Vincent",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/gabe_vincent.png?alt=media\u0026token=b5e9e289-c668-4623-9463-9c3a5408eb14"
+                    },
+                    {
+                        "id":  "202066",
+                        "name":  "Garrett Temple",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629018",
+                        "name":  "Gary Trent Jr.",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201588",
+                        "name":  "George Hill",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1627777",
+                        "name":  "Georges Niang",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Georgios Kalaitzakis",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/georgios_kalaitzakis.png?alt=media\u0026token=b7c01d81-1eaf-4d81-ad5a-602bf15ce82c"
+                    },
+                    {
+                        "id":  "203507",
+                        "name":  "Giannis Antetokounmpo",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1629048",
+                        "name":  "Goga Bitadze",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641711",
+                        "name":  "Gradey Dick",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "255",
+                        "name":  "Grant Hill",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629684",
+                        "name":  "Grant Williams",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628960",
+                        "name":  "Grayson Allen",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203084",
+                        "name":  "Harrison Barnes",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1641816",
+                        "name":  "Hunter Tyson",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630641",
+                        "name":  "Ibou Badji",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630193",
+                        "name":  "Immanuel Quickley",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630171",
+                        "name":  "Isaac Okoro",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Isaiah Canaan",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/isaiah_canaan.png?alt=media\u0026token=5f78c1ce-2e00-48ce-b765-bfcf6ad458ec"
+                    },
+                    {
+                        "id":  "1628392",
+                        "name":  "Isaiah Hartenstein",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630198",
+                        "name":  "Isaiah Joe",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Isaiah Stewart",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/isaiah_stewart.png?alt=media\u0026token=9444bdd4-418f-4238-93c6-1c7dcd56aab0"
+                    },
+                    {
+                        "id":  "202738",
+                        "name":  "Isaiah Thomas",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1627785",
+                        "name":  "Isaiah Whitehead",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "202397",
+                        "name":  "Ish Smith",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1627826",
+                        "name":  "Ivica Zubac",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629630",
+                        "name":  "Ja Morant",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1631095",
+                        "name":  "Jabari Smith Jr.",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1631133",
+                        "name":  "Jabari Walker",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630702",
+                        "name":  "Jaden Hardy",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631093",
+                        "name":  "Jaden Ivey",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1630183",
+                        "name":  "Jaden McDaniels",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1630531",
+                        "name":  "Jaden Springer",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203109",
+                        "name":  "Jae Crowder",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631170",
+                        "name":  "Jaime Jaquez Jr.",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631222",
+                        "name":  "Jake LaRavia",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628973",
+                        "name":  "Jalen Brunson",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1631105",
+                        "name":  "Jalen Duren",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630224",
+                        "name":  "Jalen Green",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1641720",
+                        "name":  "Jalen Hood-Schifino",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629667",
+                        "name":  "Jalen McDaniels",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629618",
+                        "name":  "Jalen Pickett",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630188",
+                        "name":  "Jalen Smith",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
                         "id":  "1630591",
@@ -556,54 +1072,499 @@
                         "tier":  2
                     },
                     {
-                        "id":  "1630183",
-                        "name":  "Jaden McDaniels",
+                        "id":  "1630592",
+                        "name":  "Jalen Wilson",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "2037",
+                        "name":  "Jamal Crawford",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1627750",
+                        "name":  "Jamal Murray",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1642347",
+                        "name":  "Jamal Shead",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201935",
+                        "name":  "James Harden",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1630164",
+                        "name":  "James Wiseman",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1642419",
+                        "name":  "Jamison Battle",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Jan Vesely",
+                        "tier":  2,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/jan_vesely.png?alt=media\u0026token=7fa2fe5d-ceac-4900-84e9-cd9426aa1216"
+                    },
+                    {
+                        "id":  "1628991",
+                        "name":  "Jaren Jackson Jr.",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1629020",
+                        "name":  "Jarred Vanderbilt",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Jarrett Allen",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/jarrett_allen.png?alt=media\u0026token=9932849c-2c96-45b6-9d57-5a1d9088e150"
+                    },
+                    {
+                        "id":  "1891",
+                        "name":  "Jason Terry",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631241",
+                        "name":  "Javon Freeman-Liberty",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629750",
+                        "name":  "Javonte Green",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629637",
+                        "name":  "Jaxson Hayes",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630643",
+                        "name":  "Jay Huff",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1627759",
+                        "name":  "Jaylen Brown",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Jaylen Hoard",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/jaylen_hoard.png?alt=media\u0026token=42f8b1fc-9a30-4313-ad44-c67f22063c3d"
+                    },
+                    {
+                        "id":  "1631119",
+                        "name":  "Jaylin Williams",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628369",
+                        "name":  "Jayson Tatum",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "201145",
+                        "name":  "Jeff Green",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201952",
+                        "name":  "Jeff Teague",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203924",
+                        "name":  "Jerami Grant",
                         "tier":  3
                     },
                     {
-                        "id":  "1630217",
-                        "name":  "Desmond Bane",
+                        "id":  "202391",
+                        "name":  "Jeremy Lin",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1626170",
+                        "name":  "Jerian Grant",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630579",
+                        "name":  "Jericho Sims",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641724",
+                        "name":  "Jett Howard",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628975",
+                        "name":  "Jevon Carter",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "202710",
+                        "name":  "Jimmy Butler",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "203954",
+                        "name":  "Joel Embiid",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "John Brown",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/john_brown.png?alt=media\u0026token=39630791-5134-4440-b02c-51a5adc19131"
+                    },
+                    {
+                        "id":  "1628381",
+                        "name":  "John Collins",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "John DiBartolomeo",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/jhon_dibartolomeo.png?alt=media\u0026token=7594b11a-49cf-4e67-9148-b004ac58fbe4"
+                    },
+                    {
+                        "id":  "1629723",
+                        "name":  "John Konchar",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "202322",
+                        "name":  "John Wall",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Jonas Valanciunas",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/jonas_valanciunas.png?alt=media\u0026token=aaf66ca5-ff26-4bbf-81b9-8a87763f9f05"
+                    },
+                    {
+                        "id":  "1630228",
+                        "name":  "Jonathan Kuminga",
                         "tier":  2
                     },
                     {
-                        "id":  "1628374",
-                        "name":  "Lauri Markkanen",
+                        "id":  "1642367",
+                        "name":  "Jonathan Mogbo",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641722",
+                        "name":  "Jordan Hawkins",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Jordan Loyd",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/jordan_loyd.png?alt=media\u0026token=a4d3cd03-2325-4830-b97a-47e006266797"
+                    },
+                    {
+                        "id":  "1629162",
+                        "name":  "Jordan McLaughlin",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629670",
+                        "name":  "Jordan Nwora",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641775",
+                        "name":  "Jordan Walsh",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630631",
+                        "name":  "Jose Alvarado",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630581",
+                        "name":  "Josh Giddey",
                         "tier":  2
                     },
                     {
-                        "id":  "1629012",
-                        "name":  "Collin Sexton",
+                        "id":  "1630182",
+                        "name":  "Josh Green",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628404",
+                        "name":  "Josh Hart",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1626196",
+                        "name":  "Josh Richardson",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "JR Smith",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/jr_smith.png?alt=media\u0026token=9c72acb5-4e1e-4491-a2a6-95ebf5c37f46"
+                    },
+                    {
+                        "id":  "201950",
+                        "name":  "Jrue Holiday",
                         "tier":  2
                     },
                     {
-                        "id":  "1629628",
-                        "name":  "RJ Barrett",
+                        "id":  "1630577",
+                        "name":  "Julian Champagnie",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641763",
+                        "name":  "Julian Phillips",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631124",
+                        "name":  "Julian Strawther",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Julius Erving",
+                        "tier":  1,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/julius_erving.png?alt=media\u0026token=906b6b6c-b49f-4709-9b53-0a1b325eac4b"
+                    },
+                    {
+                        "id":  "203944",
+                        "name":  "Julius Randle",
                         "tier":  2
                     },
                     {
-                        "id":  "1629008",
-                        "name":  "Michael Porter Jr.",
+                        "id":  "1642348",
+                        "name":  "Justin Edwards",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203200",
+                        "name":  "Justin Holiday",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1626157",
+                        "name":  "Karl-Anthony Towns",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "202695",
+                        "name":  "Kawhi Leonard",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1631099",
+                        "name":  "Keegan Murray",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629640",
+                        "name":  "Keldon Johnson",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203482",
+                        "name":  "Kelly Olynyk",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1626162",
+                        "name":  "Kelly Oubre Jr.",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "202689",
+                        "name":  "Kemba Walker",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Kendrick Nunn",
+                        "tier":  1,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/kendrick_nunn.png?alt=media\u0026token=e8aa3356-d061-4182-8537-58adeaa995de"
+                    },
+                    {
+                        "id":  "1629026",
+                        "name":  "Kenrich Williams",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203484",
+                        "name":  "Kentavious Caldwell-Pope",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631165",
+                        "name":  "Keon Ellis",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201142",
+                        "name":  "Kevin Durant",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "708",
+                        "name":  "Kevin Garnett",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1628989",
+                        "name":  "Kevin Huerter",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Kevin Love",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/kevin_love.png?alt=media\u0026token=4ddd6f18-ce7d-43a8-a8b7-94e1fbf4cb9b"
+                    },
+                    {
+                        "id":  "1629645",
+                        "name":  "Kevin Porter Jr.",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Kevin Punter",
+                        "tier":  2,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/kevin_punter.png?alt=media\u0026token=2dd5407d-4fa7-46a9-8213-6ec314af5498"
+                    },
+                    {
+                        "id":  "1626172",
+                        "name":  "Kevon Looney",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641718",
+                        "name":  "Keyonte George",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203114",
+                        "name":  "Khris Middleton",
                         "tier":  2
                     },
                     {
-                        "id":  "1627749",
-                        "name":  "Dejounte Murray",
-                        "tier":  2
+                        "id":  "202691",
+                        "name":  "Klay Thompson",
+                        "tier":  1
                     },
                     {
-                        "id":  "1629636",
-                        "name":  "Darius Garland",
-                        "tier":  2
+                        "id":  "1641738",
+                        "name":  "Kobe Brown",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
-                        "id":  "201586",
-                        "name":  "Serge Ibaka",
-                        "tier":  2
+                        "id":  "977",
+                        "name":  "Kobe Bryant",
+                        "tier":  1
                     },
                     {
-                        "id":  "1626156",
-                        "name":  "D\u0027Angelo Russell",
-                        "tier":  2
+                        "id":  "0",
+                        "name":  "Konstantinos Mitoglou",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/konstantinos_mitoglou.png?alt=media\u0026token=57b8f287-7104-4d64-957d-e0f2124d919d"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Kostas Sloukas",
+                        "tier":  2,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/kostas_sloukas.png?alt=media\u0026token=0bd33357-25c0-46d0-a42f-5a9b83c64ff2"
+                    },
+                    {
+                        "id":  "1627739",
+                        "name":  "Kris Dunn",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631200",
+                        "name":  "Kris Murray",
+                        "tier":  3,
+                        "league":  "NBA"
                     },
                     {
                         "id":  "204001",
@@ -611,29 +1572,275 @@
                         "tier":  2
                     },
                     {
-                        "id":  "203897",
-                        "name":  "Zach LaVine",
+                        "id":  "203937",
+                        "name":  "Kyle Anderson",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628398",
+                        "name":  "Kyle Kuzma",
                         "tier":  2
                     },
                     {
-                        "id":  "203952",
-                        "name":  "Andrew Wiggins",
+                        "id":  "200768",
+                        "name":  "Kyle Lowry",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "202681",
+                        "name":  "Kyrie Irving",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "LaMarcus Aldridge",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/lamarcus_aldridge.png?alt=media\u0026token=46b92b3a-efc1-4dc5-b95e-626d489e04d3"
+                    },
+                    {
+                        "id":  "1630163",
+                        "name":  "LaMelo Ball",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "202362",
+                        "name":  "Lance Stephenson",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629013",
+                        "name":  "Landry Shamet",
                         "tier":  3
                     },
                     {
-                        "id":  "1629632",
-                        "name":  "Coby White",
+                        "id":  "1626204",
+                        "name":  "Larry Nance Jr.",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628374",
+                        "name":  "Lauri Markkanen",
                         "tier":  2
                     },
                     {
-                        "id":  "1629014",
-                        "name":  "Anfernee Simons",
+                        "id":  "0",
+                        "name":  "Leandro Bolmaro",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/leandro_bolmaro.png?alt=media\u0026token=e0efe846-383a-4001-9418-aa724e7279e9"
+                    },
+                    {
+                        "id":  "2544",
+                        "name":  "LeBron James",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1629623",
+                        "name":  "Lindell Wigginton",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629022",
+                        "name":  "Lonnie Walker IV",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628366",
+                        "name":  "Lonzo Ball",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "101150",
+                        "name":  "Lou Williams",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Luca Vildoza",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/luca_vildoza.png?alt=media\u0026token=87aa3f2f-b8ff-4c2f-8736-4f0eb7b07194"
+                    },
+                    {
+                        "id":  "1629652",
+                        "name":  "Luguentz Dort",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629029",
+                        "name":  "Luka Doncic",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1630568",
+                        "name":  "Luka Garza",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Luke Kennard",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/luke_kennard.png?alt=media\u0026token=607519c9-3d1f-4fa8-a085-07020cc14745"
+                    },
+                    {
+                        "id":  "1628436",
+                        "name":  "Luke Kornet",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631103",
+                        "name":  "Malaki Branham",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Malcolm Brogdon",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/malcolm_brogdon.png?alt=media\u0026token=f97ed6fe-1259-4e31-92af-284759b89b42"
+                    },
+                    {
+                        "id":  "1627736",
+                        "name":  "Malik Beasley",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628370",
+                        "name":  "Malik Monk",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1938",
+                        "name":  "Manu Ginobili",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "201158",
+                        "name":  "Marco Belinelli",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631204",
+                        "name":  "Marcus Sasser",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Marcus Smart",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/marcus_smart.png?alt=media\u0026token=36086ab7-fe15-4018-a9c8-0e97c9a9648c"
+                    },
+                    {
+                        "id":  "201596",
+                        "name":  "Mario Chalmers",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Mario Hezonja",
+                        "tier":  2,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/mario_hezonja.png?alt=media\u0026token=d1fa60c4-a28a-42b6-8d4c-77e916cfd6c6"
+                    },
+                    {
+                        "id":  "1630699",
+                        "name":  "MarJon Beauchamp",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "202693",
+                        "name":  "Markieff Morris",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Markus Howard",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/markus_howard.png?alt=media\u0026token=7c5c1289-4af0-4fd9-95e6-b7cccd050141"
+                    },
+                    {
+                        "id":  "1641824",
+                        "name":  "Matas Buzelis",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Mathias Lessort",
+                        "tier":  2,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/mathias_lessort.png?alt=media\u0026token=6f62c18d-5356-459e-934b-e4bc6f906123"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Matisse Thybulle",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/matisse_thybulle.png?alt=media\u0026token=a135cac0-36d3-4e7b-9b13-872936b4c3d9"
+                    },
+                    {
+                        "id":  "1631108",
+                        "name":  "Max Christie",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Max Strus",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/max_strus.png?alt=media\u0026token=865384fa-0216-4d62-bc4f-16b59b0b1188"
+                    },
+                    {
+                        "id":  "893",
+                        "name":  "Michael Jordan",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1629008",
+                        "name":  "Michael Porter Jr.",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Mikal Bridges",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/mikal_bridges.png?alt=media\u0026token=d709935b-fc5c-42b7-8c48-563a0e0a8df0"
+                    },
+                    {
+                        "id":  "201144",
+                        "name":  "Mike Conley",
                         "tier":  3
                     },
                     {
-                        "id":  "1631093",
-                        "name":  "Jaden Ivey",
-                        "tier":  3
+                        "id":  "0",
+                        "name":  "Mike James",
+                        "tier":  1,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/mike_james.png?alt=media\u0026token=9f6266b1-ac5c-4a6b-8712-cf1fe954ed2d"
                     },
                     {
                         "id":  "1628970",
@@ -641,9 +1848,433 @@
                         "tier":  3
                     },
                     {
-                        "id":  "1630560",
-                        "name":  "Cam Thomas",
+                        "id":  "1629011",
+                        "name":  "Mitchell Robinson",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "2590",
+                        "name":  "Mo Williams",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "101145",
+                        "name":  "Monta Ellis",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629021",
+                        "name":  "Moritz Wagner",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630541",
+                        "name":  "Moses Moody",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630230",
+                        "name":  "Naji Marshall",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Nando De Colo",
+                        "tier":  1,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/nando_de_colo.png?alt=media\u0026token=4108a3cf-f0d0-4695-8340-02d179f94233"
+                    },
+                    {
+                        "id":  "1629642",
+                        "name":  "Nassir Little",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Naz Reid",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/naz_reid.png?alt=media\u0026token=13d98232-e4ea-46fe-9897-ceb2158659bf"
+                    },
+                    {
+                        "id":  "1629674",
+                        "name":  "Neemias Queta",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630208",
+                        "name":  "Nick Richards",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1629638",
+                        "name":  "Nickeil Alexander-Walker",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201587",
+                        "name":  "Nicolas Batum",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Niels Giffey",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/niels_giffey.png?alt=media\u0026token=89c255db-df31-4e8b-a6fb-65d319a25cb1"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Nigel Williams-Goss",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/nigel_williams_goss.png?alt=media\u0026token=42295e7a-8c7d-4eb9-9353-a2edcf1b87fc"
+                    },
+                    {
+                        "id":  "203999",
+                        "name":  "Nikola Jokic",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Nikola Kalinic",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/nikola_kalinic.png?alt=media\u0026token=6df2d338-a269-447b-9dc8-ea158a24e50a"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Nikola Milutinov",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/nikola_milutinov.png?alt=media\u0026token=23b797f3-98c2-495e-b5ad-cd6bee636cee"
+                    },
+                    {
+                        "id":  "202696",
+                        "name":  "Nikola Vucevic",
                         "tier":  2
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Nikola Vujcic",
+                        "tier":  1,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/nikola_vujcic.png?alt=media\u0026token=ed48ab4f-dce9-4fa1-ac20-7e9b46666645"
+                    },
+                    {
+                        "id":  "1626181",
+                        "name":  "Norman Powell",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "202708",
+                        "name":  "Norris Cole",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628384",
+                        "name":  "O.G. Anunoby",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630167",
+                        "name":  "Obi Toppin",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1630534",
+                        "name":  "Ochai Agbaji",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641765",
+                        "name":  "Olivier-Maxence Prosper",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641931",
+                        "name":  "Onuralp Bitim",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Oscar Robertson",
+                        "tier":  1,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/oscar_robertson.png?alt=media\u0026token=79a88c4d-a573-4f08-a9de-3b2b44d8eff7"
+                    },
+                    {
+                        "id":  "1629052",
+                        "name":  "Oshae Brissett",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203490",
+                        "name":  "Otto Porter Jr.",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1631172",
+                        "name":  "Ousmane Dieng",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203143",
+                        "name":  "Pablo Prigioni",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631094",
+                        "name":  "Paolo Banchero",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1627783",
+                        "name":  "Pascal Siakam",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1626192",
+                        "name":  "Pat Connaughton",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630172",
+                        "name":  "Patrick Williams",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Patty Mills",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/patty_mills.png?alt=media\u0026token=447396d4-d181-47c7-9a83-553170ff0cca"
+                    },
+                    {
+                        "id":  "2200",
+                        "name":  "Pau Gasol",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "202331",
+                        "name":  "Paul George",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "200794",
+                        "name":  "Paul Millsap",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1718",
+                        "name":  "Paul Pierce",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1630194",
+                        "name":  "Paul Reed",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630202",
+                        "name":  "Payton Pritchard",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "1641796",
+                        "name":  "Pelle Larsson",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631212",
+                        "name":  "Peyton Watson",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630173",
+                        "name":  "Precious Achiuwa",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "951",
+                        "name":  "Ray Allen",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1641712",
+                        "name":  "Rayan Rupert",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "101109",
+                        "name":  "Raymond Felton",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "202704",
+                        "name":  "Reggie Jackson",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641741",
+                        "name":  "Ricky Council IV",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629628",
+                        "name":  "RJ Barrett",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "201577",
+                        "name":  "Robin Lopez",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203585",
+                        "name":  "Rodney McGruder",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201958",
+                        "name":  "Rodrigue Beaubois",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Rokas Jokubaitis",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/rokas_jokubaitis.png?alt=media\u0026token=b85c69ca-daec-4607-b137-3eb079f003b2"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Roman Sorkin",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/roman_sorkin.png?alt=media\u0026token=6a04f943-a58f-4b26-8de3-74ea23bc1a9c"
+                    },
+                    {
+                        "id":  "1631199",
+                        "name":  "Ron Harper Jr.",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1626178",
+                        "name":  "Rondae Hollis-Jefferson",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1626220",
+                        "name":  "Royce O\u0027Neale",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Rudy Fernandez",
+                        "tier":  2,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/rudy_fernandez.png?alt=media\u0026token=8c415649-58fa-45cf-a1e6-3fbe220d8068"
+                    },
+                    {
+                        "id":  "200752",
+                        "name":  "Rudy Gay",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203497",
+                        "name":  "Rudy Gobert",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "1629060",
+                        "name":  "Rui Hachimura",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201566",
+                        "name":  "Russell Westbrook",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1631157",
+                        "name":  "Ryan Rollins",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Saben Lee",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/saben_lee.png?alt=media\u0026token=d6463513-9fcf-462c-b06f-a77a05d8ef7a"
+                    },
+                    {
+                        "id":  "1630180",
+                        "name":  "Saddiq Bey",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630573",
+                        "name":  "Sam Hauser",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630572",
+                        "name":  "Sandro Mamukelashvili",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630583",
+                        "name":  "Santi Aldama",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Sasha Vezenkov",
+                        "tier":  1,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/sasha_vezenkov.png?alt=media\u0026token=04e00667-3648-4372-993d-a17621c360f4"
                     },
                     {
                         "id":  "1630703",
@@ -651,9 +2282,427 @@
                         "tier":  2
                     },
                     {
-                        "id":  "1641706",
-                        "name":  "Brandon Miller",
+                        "id":  "1630567",
+                        "name":  "Scottie Barnes",
                         "tier":  2
+                    },
+                    {
+                        "id":  "1630590",
+                        "name":  "Scotty Pippen Jr.",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201586",
+                        "name":  "Serge Ibaka",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Sergio Llull",
+                        "tier":  1,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/sergio_llull.png?alt=media\u0026token=4340f943-52d0-46fb-88b2-b05a79e53320"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Sergio Rodriguez",
+                        "tier":  1,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/sergio_rodriguez.png?alt=media\u0026token=e2988196-32eb-45fc-b09b-66e121bce8ac"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Seth Curry",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/seth_curry.png?alt=media\u0026token=3b4e98be-1b02-4c78-b223-ab6a213b2ec5"
+                    },
+                    {
+                        "id":  "203894",
+                        "name":  "Shabazz Napier",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631101",
+                        "name":  "Shaedon Sharpe",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628983",
+                        "name":  "Shai Gilgeous-Alexander",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Shane Larkin",
+                        "tier":  2,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/shane_larkin.png?alt=media\u0026token=ee315f42-5c4a-4141-a828-3c9d604d4653"
+                    },
+                    {
+                        "id":  "406",
+                        "name":  "Shaquille O\u0027Neal",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1631321",
+                        "name":  "Sidy Cissoko",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631323",
+                        "name":  "Simone Fontecchio",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203915",
+                        "name":  "Spencer Dinwiddie",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1626169",
+                        "name":  "Stanley Johnson",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201939",
+                        "name":  "Stephen Curry",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1642264",
+                        "name":  "Stephon Castle",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "2581",
+                        "name":  "Steve Blake",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203500",
+                        "name":  "Steven Adams",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "201959",
+                        "name":  "Taj Gibson",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Tamir Blatt",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/tamir_blatt.png?alt=media\u0026token=afeda8a1-0ce6-41c4-bbf7-70ec37d0a2b1"
+                    },
+                    {
+                        "id":  "1631106",
+                        "name":  "Tari Eason",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1627752",
+                        "name":  "Taurean Prince",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629611",
+                        "name":  "Terance Mann",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1626179",
+                        "name":  "Terry Rozier",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "200757",
+                        "name":  "Thabo Sefolosha",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Theo Papaloukas",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/theo_papaloukas.png?alt=media\u0026token=d01ef841-b702-45ce-a061-45f7ebd8ce0a"
+                    },
+                    {
+                        "id":  "1628418",
+                        "name":  "Thomas Bryant",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Thomas Walkup",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/thomas_walkup.png?alt=media\u0026token=3e62cde4-f9d7-42e3-8f0e-fd5a63ca3281"
+                    },
+                    {
+                        "id":  "201168",
+                        "name":  "Tiago Splitter",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1495",
+                        "name":  "Tim Duncan",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "203501",
+                        "name":  "Tim Hardaway Jr.",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "202699",
+                        "name":  "Tobias Harris",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "2225",
+                        "name":  "Tony Parker",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "203503",
+                        "name":  "Tony Snell",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Tornike Shengelia",
+                        "tier":  2,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/tornike_shengelia.png?alt=media\u0026token=7150e1d9-d3f7-4f6d-841b-e071ed3ff416"
+                    },
+                    {
+                        "id":  "1628470",
+                        "name":  "Torrey Craig",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Toumani Camara",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/toumani_camara.png?alt=media\u0026token=247b11c9-e456-4f2d-a769-b4c23624b6ae"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Tracy McGrady",
+                        "tier":  2,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/tracy_mcgrady.png?alt=media\u0026token=de51afe2-27e8-462c-a8fe-6c2c2d5b93f5"
+                    },
+                    {
+                        "id":  "1629027",
+                        "name":  "Trae Young",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1631218",
+                        "name":  "Trayce Jackson-Davis",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630200",
+                        "name":  "Tre Jones",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1626168",
+                        "name":  "Trey Lyles",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630530",
+                        "name":  "Trey Murphy III",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641783",
+                        "name":  "Tristan da Silva",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203584",
+                        "name":  "Troy Daniels",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Tyler Dorsey",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/tyler_dorsey.png?alt=media\u0026token=9da0c90b-ca81-447c-b7f9-905dc3d1b1e7"
+                    },
+                    {
+                        "id":  "1629639",
+                        "name":  "Tyler Herro",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Tyler Kolek",
+                        "tier":  3,
+                        "league":  "NBA",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/tyler_kolek.png?alt=media\u0026token=ed1cb1da-799e-453d-902a-905020b941cd"
+                    },
+                    {
+                        "id":  "1630169",
+                        "name":  "Tyrese Haliburton",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1630178",
+                        "name":  "Tyrese Maxey",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1626145",
+                        "name":  "Tyus Jones",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Vasilije Micic",
+                        "tier":  1,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/vasilije_micic.png?alt=media\u0026token=80498156-c088-48e7-8e99-8b2597dbf79e"
+                    },
+                    {
+                        "id":  "203506",
+                        "name":  "Victor Oladipo",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641705",
+                        "name":  "Victor Wembanyama",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1713",
+                        "name":  "Vince Carter",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1631246",
+                        "name":  "Vince Williams Jr.",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1631117",
+                        "name":  "Walker Kessler",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1628976",
+                        "name":  "Wendell Carter Jr.",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "202083",
+                        "name":  "Wesley Matthews",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Will Clyburn",
+                        "tier":  2,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/will_clyburn.png?alt=media\u0026token=08e07003-3ede-49b4-ae9e-ec852f330b63"
+                    },
+                    {
+                        "id":  "1630214",
+                        "name":  "Xavier Tillman",
+                        "tier":  3
+                    },
+                    {
+                        "id":  "0",
+                        "name":  "Yam Madar",
+                        "tier":  3,
+                        "league":  "EuroLeague",
+                        "photo":  "https://firebasestorage.googleapis.com/v0/b/projectbt14.firebasestorage.app/o/yam_madar.png?alt=media\u0026token=69153ad6-ab9c-46c8-a6f0-c1981e59650c"
+                    },
+                    {
+                        "id":  "2397",
+                        "name":  "Yao Ming",
+                        "tier":  1
+                    },
+                    {
+                        "id":  "1628380",
+                        "name":  "Zach Collins",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1641744",
+                        "name":  "Zach Edey",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "203897",
+                        "name":  "Zach LaVine",
+                        "tier":  2
+                    },
+                    {
+                        "id":  "2585",
+                        "name":  "Zaza Pachulia",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630192",
+                        "name":  "Zeke Nnaji",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1630533",
+                        "name":  "Ziaire Williams",
+                        "tier":  3,
+                        "league":  "NBA"
+                    },
+                    {
+                        "id":  "1629627",
+                        "name":  "Zion Williamson",
+                        "tier":  1
                     }
                 ]
 }

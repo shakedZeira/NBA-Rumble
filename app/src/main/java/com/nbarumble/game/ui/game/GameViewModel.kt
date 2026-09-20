@@ -55,6 +55,7 @@ class GameViewModel(
 
     @Volatile
     private var mutationInFlight = false
+    private var winnerRecorded = false
 
     init {
         viewModelScope.launch {
@@ -70,6 +71,17 @@ class GameViewModel(
             while (isActive) {
                 draw()
                 kotlinx.coroutines.delay(250)
+            }
+        }
+        viewModelScope.launch {
+            _ui.collect { state ->
+                if (!winnerRecorded && state.finished && state.iWon == true && state.myUid.isNotEmpty()) {
+                    winnerRecorded = true
+                    try {
+                        container.leaderboardRepository.recordWin(state.myUid)
+                    } catch (_: Exception) {
+                    }
+                }
             }
         }
     }

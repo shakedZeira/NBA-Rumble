@@ -5,6 +5,7 @@ import android.content.Context
 import com.google.firebase.FirebaseApp
 import com.google.firebase.database.FirebaseDatabase
 import com.nbarumble.game.data.repo.AuthRepository
+import com.nbarumble.game.data.repo.LeaderboardRepository
 import com.nbarumble.game.data.repo.NbaPlayerRepository
 import com.nbarumble.game.data.repo.RoomRepository
 
@@ -32,5 +33,6 @@ class AppContainer(context: Context) {
 
     val authRepository: AuthRepository = AuthRepository()
     val nbaPlayerRepository: NbaPlayerRepository = NbaPlayerRepository(context)
+    val leaderboardRepository: LeaderboardRepository by lazy { LeaderboardRepository(firebaseDatabase) }
     val roomRepository: RoomRepository by lazy { RoomRepository(firebaseDatabase, nbaPlayerRepository) }
 }

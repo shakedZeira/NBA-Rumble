@@ -192,6 +192,32 @@ fun HomeRoute(vm: HomeViewModel, onNav: (String) -> Unit) {
             Text("JOIN", fontWeight = FontWeight.Bold, color = IceBlue)
         }
 
+        Spacer(modifier = Modifier.height(24.dp))
+
+        Button(
+            onClick = vm::openSingle,
+            modifier = Modifier
+                .fillMaxWidth()
+                .height(54.dp),
+            colors = ButtonDefaults.buttonColors(containerColor = Orange)
+        ) {
+            Text(
+                "SINGLE PLAYER",
+                color = Color.Black,
+                fontWeight = FontWeight.Bold
+            )
+        }
+
+        OutlinedButton(
+            onClick = vm::openLeaderboard,
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(top = 12.dp)
+                .height(50.dp)
+        ) {
+            Text("LEADERBOARD", fontWeight = FontWeight.Bold, color = IceBlue)
+        }
+
         state.message?.let {
             Text(
                 text = it,

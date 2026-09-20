@@ -17,6 +17,8 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
         const val ROUTE_HOME = "home"
         const val ROUTE_LOBBY = "lobby"
         const val ROUTE_GAME = "game"
+        const val ROUTE_SINGLE = "single"
+        const val ROUTE_LEADERBOARD = "leaderboard"
     }
 
     enum class ConnState { CONNECTING, CONNECTED, ERROR }
@@ -64,6 +66,8 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
     fun setJoinCode(value: String) = _ui.update { it.copy(joinCode = RoomCode.sanitize(value)) }
     fun clearMessage() = _ui.update { it.copy(message = null) }
     fun consumeNavigation() = _ui.update { it.copy(navigateTo = null) }
+    fun openSingle() = _ui.update { it.copy(navigateTo = ROUTE_SINGLE) }
+    fun openLeaderboard() = _ui.update { it.copy(navigateTo = ROUTE_LEADERBOARD) }
 
     fun createRoom() {
         val state = _ui.value
